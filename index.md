@@ -94,4 +94,38 @@ O banco será armazenado em formato de arquivos JSON, contendo título, texto, o
 
 - Crawler de questões
 
-O Crawler é um script que extrai questões de um site na internet, as trata e gera uma saída com essas informações. Atualmente, está sendo utilizado o site [qconcursos](https://www.qconcursos.com) na seção de Engenharia de Software -> Testes de Software
+O Crawler é um script que extrai questões de um site na internet, as trata e gera uma saída com essas informações. Atualmente, está sendo utilizado o site [qconcursos](https://www.qconcursos.com) na seção de Engenharia de Software -> Testes de Software. Esse crawler gera uma saída contendo as informações necessárias para a montagem do banco de questões no formato JSON, que serão utilizados pelo aplicativo.
+
+- Implementação do "jogo em progresso"
+
+- Definição de como dispor perguntas e respostas na tela
+- Definição de como modelar a interação com o usuário
+
+- Decisões de processo
+
+Será utilizado a estratégia de Pair Programming, de forma a aumentar a assertividade do código produzido, elevando também a sua qualidade. Serão feitos rodízios entre os desenvolvedores do grupo, de forma que seja possível, ao final do trabalho, que cada um do desenvolvimento tenha tido um contato com cada uma das áreas que participaram do desenvolvimento como um todo desse aplicativo. Além disso, será feita uma revisão dos artefatos produzidos ao final do trabalho.
+
+## Desafios encontrados
+
+- Banco de perguntas
+    - Selecionar as questões mais relevantes para o jogo
+    - Limite de requisições para o Crawler
+        - Temporizações maiores para buscar o conteúdo
+
+- Desenvolvimento para Android
+    - Utilização da ferramenta Android Studio
+        - Instalação da ferramenta e todos seus periféricos por todos os desenvolvedores do grupo
+    - Implementação de funcionalidades do jogo
+
+- Coordenação dos membros do grupo
+    - Comunicação como um fator-chave para o desenvolvimento
+        - Grupo no Whatsapp e conferências de vídeo no Hangouts
+        - Utilização do GitHub para hospedagem do código, mas também como uma forma de comunicação dos desenvolvedores e acompanhamento das iterações pelo Mestre Scrum e Dono do Produto
+    - Alocação de tarefas visando a habilidade individual
+        - Tempo restrito para desenvolvimento nos fez optar por colocar mais responsabilidades de cada área em quem já teve algum contato com ela
+
+## Produto
+
+Todo o código do produto será posteriormente disponibilizado (atualmente ele está sendo hospedado no GitHub em um repositório privado para evitar problemas de autoria e/ou possíveis interferências externas) nesse link:
+
+[Unit Test Quiz](https://https://github.com/ronaldpereira/unit-test-quiz)
