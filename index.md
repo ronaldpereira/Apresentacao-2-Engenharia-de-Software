@@ -8,18 +8,18 @@ Ao todo, são 5 níveis de maturidade que atestam, por sua vez, o grau de evolu�
 
 Porém, nessa apresentação, iremos tratar mais especificamente de somente um dos níveis de maturidade.
 
-## Nível 2 de Maturidade - Gerenciado/Gerido
+## Nível 2 de Maturidade - Gerenciado / Gerido
 
 O nível 2 de maturidade do CMMI é definido ,principalmente, pelo gerenciamento dos requisitos de seus projetos, bem como o planejamento, a medição e o controle dos diferentes processos envolvendo o desenvolvimento de um software. Basicamente, ele é sobre planejar a execução e confrontar o executado contra o que foi planejado inicialmente.
 
 Entre abril de 2002 e junho de 2006 foram conduzidas 1581 avaliações em 1337 organizações.
 
-- 18,2%: nível 5 (Optimizing)
-- 4,4%: nível 4 (Quantitatively Managed)
-- 33,8%: nível 3 (Defined)
-- **33,3%: nível 2 (Managed)**
-- 1,9%: nível 1 (Initial)
-- 8,4%: sem qualificação (Not Given)
+- 18,2%: nível 5 (Em otimização)
+- 4,4%: nível 4 (Quantitativamente gerenciado / Gerido quantitativamente)
+- 33,8%: nível 3 (Definido)
+- **33,3%: nível 2 (Gerenciado / Gerido)**
+- 1,9%: nível 1 (Inicial - Ad-hoc)
+- 8,4%: sem qualificação (Não fornecido)
 
 
 
