@@ -53,4 +53,45 @@ Entre abril de 2002 e junho de 2006 foram conduzidas 1581 avaliações em 1337 o
 
 A visão desse trabalho é, em suma, a criação de um "jogo sério" na área de engenharia de software, de forma que ele possa ser utilizado como uma forma alternativa de estudo com a finalidade de estimular o aprendizado dos estudantes sobre os conceitos da área, mais especificamente sobre a área de testes unitários de software.
 
+### Próximas iterações
+
 Nas próximas iterações vamos incrementar nosso banco de dados de perguntas com a ajuda do Crawler desenvolvido pelo grupo e vamos implementar a tela de final de jogo com estatísticas acerca daquela rodada (acertos, erros, etc).
+
+### Gestão de configuração
+
+- Criação do banco de questões
+- Criação do modelo de jogo em progresso
+- Implementar funcionalidades do jogo
+
+## Organização e Contribuições do grupo
+
+- Dono do Produto: Vitor Menezello
+- Mestre Scrum: Luiz Otávio
+- Desenvolvedores:
+    - Desenvolvimento do aplicativo:
+        - Breno Rodrigues
+        - Gabriel Oliveira
+        - Ivan Soares
+        - Marina Moreira
+        - Pedro Brum
+        - Rafael Grandsire
+        - Ronald Pereira
+    - Desenvolvimento do crawler:
+        - Ivan Soares
+        - Pedro Dalla
+    - Desenvolvimento da base de dados:
+        - Pedro Dalla
+    - Decisões de Implementação:
+        - Rafael Grandsire
+    - Desenvolvimento do site:
+        - Ronald Pereira
+
+## Decisões da iteração
+
+- Banco de perguntas
+
+O banco será armazenado em formato de arquivos JSON, contendo título, texto, opções e gabarito das perguntas. Foi escolhido JSON pelo fato de ser um arquivo leve, compacto, fácil de ser interpretado e fácil de ser gerado, pois já existem muitas bibliotecas de várias linguagens já implementadas com métodos para tratar JSON com maior facilidade.
+
+- Crawler de questões
+
+O Crawler é um script que extrai questões de um site na internet, as trata e gera uma saída com essas informações. Atualmente, está sendo utilizado o site [qconcursos](https://www.qconcursos.com) na seção de Engenharia de Software -> Testes de Software
