@@ -6,7 +6,7 @@ Um processo representa, dentro da área de software, um conjunto de atividades c
 
 Ao todo, são 5 níveis de maturidade que atestam, por sua vez, o grau de evolução que uma organização se encontra num determinado momento. O objetivo maior, considerando o CMMI e seus diferentes conceitos, está justamente na produção de software com maior qualidade e menos propenso a erros.
 
-    Porém, nessa apresentação, iremos tratar mais especificamente de somente um dos níveis de maturidade.
+Porém, nessa apresentação, iremos tratar mais especificamente de somente um dos níveis de maturidade.
 
 ## Nível 2 de Maturidade - CMMI
 
