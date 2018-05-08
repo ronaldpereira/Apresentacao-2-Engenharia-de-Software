@@ -39,6 +39,7 @@ Entre abril de 2002 e junho de 2006 foram conduzidas 1581 avaliações em 1337 o
     - Criação do banco de questões
         - Foi desenvolvido um Crawler para encontrar essas respostas automaticamente de forma automática e rápida
     - Implementação utilizando _parser_ para carregamento dos arquivos e construção de objetos de transferência de dados
+    
 
 - Iteração 2 (dias 16 a 30)
     - Implementação inicial do aplicativo
@@ -46,42 +47,10 @@ Entre abril de 2002 e junho de 2006 foram conduzidas 1581 avaliações em 1337 o
             - Desenvolvimento das questões
             - Interação com o usuário
 
+## Projeto
 
+### Visão
 
-## Welcome to GitHub Pages
+A visão desse trabalho é, em suma, a criação de um "jogo sério" na área de engenharia de software, de forma que ele possa ser utilizado como uma forma alternativa de estudo com a finalidade de estimular o aprendizado dos estudantes sobre os conceitos da área, mais especificamente sobre a área de testes unitários de software.
 
-You can use the [editor on GitHub](https://github.com/ronaldpereira/software-engineering-website-cmmi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ronaldpereira/software-engineering-website-cmmi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nas próximas iterações vamos incrementar nosso banco de dados de perguntas com a ajuda do Crawler desenvolvido pelo grupo e vamos implementar a tela de final de jogo com estatísticas acerca daquela rodada (acertos, erros, etc).
