@@ -33,7 +33,7 @@ Entre abril de 2002 e junho de 2006 foram conduzidas 1581 avaliações em 1337 o
 - Estatísticas do jogo
     - Performance ao final de cada jogo
 
-###Requisitos das iterações
+### Requisitos das iterações
 
 - Iteração 1 (dias 1 a 15)
     - Criação do banco de questões
@@ -45,6 +45,8 @@ Entre abril de 2002 e junho de 2006 foram conduzidas 1581 avaliações em 1337 o
         - Jogo em processo
             - Desenvolvimento das questões
             - Interação com o usuário
+
+
 
 ## Welcome to GitHub Pages
 
