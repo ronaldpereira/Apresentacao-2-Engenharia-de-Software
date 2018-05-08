@@ -18,7 +18,7 @@ Entre abril de 2002 e junho de 2006 foram conduzidas 1581 avaliações em 1337 o
 - 4,4%: nível 4 (Quantitatively Managed)
 - 33,8%: nível 3 (Defined)
 - 33,3%: nível 2 (Managed)
-- *1,9%: nível 1 (Initial)*
+- **1,9%: nível 1 (Initial)**
 - 8,4%: sem qualificação (Not Given)
 
 
