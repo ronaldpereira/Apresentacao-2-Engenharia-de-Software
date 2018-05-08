@@ -1,3 +1,5 @@
+# Unit Test Quiz - Apresentação 2
+
 # O que é o CMMI
 
 O CMMI (Capability Maturity Model Integration ou Modelo Integrado de Maturidade em Capacitação) trata-se de um modelo (atualmente na versão 1.3), com um enfoque voltado para a medição da capacidade de maturidade de processos de software.
@@ -128,4 +130,4 @@ Será utilizado a estratégia de Pair Programming, de forma a aumentar a asserti
 
 Todo o código do produto será posteriormente disponibilizado (atualmente ele está sendo hospedado no GitHub em um repositório privado para evitar problemas de autoria e/ou possíveis interferências externas) nesse link:
 
-[Unit Test Quiz](https://https://github.com/ronaldpereira/unit-test-quiz)
+[Unit Test Quiz](https://github.com/ronaldpereira/unit-test-quiz)
